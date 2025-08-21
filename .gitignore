@@ -1,0 +1,57 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+
+# Maven
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDEs
+/.idea/
+*.iml
+*.ipr
+*.iws
+/.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Others
+*.swp
+*.swo
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# NetBeans
+/nbproject/private/
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.nb-gradle/
+
+# VS Code
+.vscode/
+
+# JaCoCo
+jacoco.exec
+/site/
+
+# Surefire Reports
+/surefire-reports/
+
+# Generated sources
+/generated-sources/
+/generated-test-sources/
+
+# Maven status
+/maven-status/
